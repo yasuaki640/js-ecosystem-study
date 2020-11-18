@@ -1,0 +1,22 @@
+{
+  "name": "js-ecosystem-study",
+  "version": "1.0.0",
+  "description": "A project for study node.js react and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasuaki640/js-ecosystem-study.git"
+  },
+  "author": "Yasuaki Watanabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasuaki640/js-ecosystem-study/issues"
+  },
+  "homepage": "https://github.com/yasuaki640/js-ecosystem-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
