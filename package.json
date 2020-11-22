@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/yasuaki640/js-ecosystem-study#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "newsapi": "^2.4.1"
   }
 }
